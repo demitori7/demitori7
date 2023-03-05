@@ -2,6 +2,8 @@
 
 ## I'm a novice tester
 
+## My portfolio
+- [Portfolio](https://docs.google.com/document/d/1HgB3Lg1mFN9001BofxHfpREZzNcOP0tgge96uHKX7d8/edit)
 
 ## Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -12,6 +14,15 @@
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Redmine-090909?style=for-the-badge&logo=redmine&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Testlink-090909?style=for-the-badge&logo=testlink&logoColor=71b556)
+
+
+
+- [Checklists](https://github.com/artichokeee/checklist)
+- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
+- [Bug-Reports](https://github.com/artichokeee/bug-reports)
+- [SQL Queries](https://github.com/artichokeee/SQL)
+- [Postman Collections](https://github.com/artichokeee/postman)
+
 
 
 ## My contacts
