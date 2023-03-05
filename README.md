@@ -1,4 +1,4 @@
-![Header](https://github.com/demitori7/dmitrykoroteev/blob/main/assets/I7j5HthJaIc.jpg)
+![Header](https://github.com/demitori7/demitori7/blob/main/assets/I7j5HthJaIc.jpg)
 
 ## I'm a novice tester
 
