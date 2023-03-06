@@ -15,7 +15,8 @@
 ![Header](https://img.shields.io/badge/Redmine-090909?style=for-the-badge&logo=redmine&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Testlink-090909?style=for-the-badge&logo=testlink&logoColor=71b556)
 
-
+## My certificates
+- [Software Testint Fundamentals](https://sedtest-school.ru/wp-content/uploads/2022/05/dmitry-koroteev.png)
 
 ## My contacts
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/kordima9)
