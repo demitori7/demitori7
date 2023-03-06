@@ -2,7 +2,7 @@
 
 ## I'm a beginner QA engineer
 
-## My portfolio
+## My projects
 - [Portfolio](https://docs.google.com/document/d/1HgB3Lg1mFN9001BofxHfpREZzNcOP0tgge96uHKX7d8/edit)
 
 
