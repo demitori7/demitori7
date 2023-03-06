@@ -1,9 +1,10 @@
 ![Header](https://github.com/demitori7/demitori7/blob/main/assets/I7j5HthJaIc.jpg)
 
-## I'm a novice tester
+## I'm a beginner QA engineer
 
 ## My portfolio
 - [Portfolio](https://docs.google.com/document/d/1HgB3Lg1mFN9001BofxHfpREZzNcOP0tgge96uHKX7d8/edit)
+
 
 ## Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
