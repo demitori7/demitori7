@@ -17,6 +17,7 @@
 
 ## My certificates
 - [Software Testint Fundamentals](https://sedtest-school.ru/wp-content/uploads/2022/05/dmitry-koroteev.png)
+- [Primary data processing and storage](https://de.ifmo.ru/certificates/0df78b67549d470c.pdf)
 
 ## My contacts
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/kordima9)
